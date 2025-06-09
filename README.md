@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Currently contributing to an **ERP system** (HRM, Sales, Project Management modules) .<br>🛠️ Building scalable web apps using **Laravel, PHP, RESTful APIs, and modern frontend technologies.  <br>👥 Working closely with clients to understand requirements and provide **bug fixing, support, and ERP training.<br>🌱Always learning and exploring new tools, frameworks, and development practices.</p>
+<p align="left">Passionate full stack developer crafting high-performing web apps. I love solving problems and turning ideas into clean, functional digital experiences. <br><br>🔭 Currently contributing to an **ERP system** (HRM, Sales, Project Management modules) .<br>🛠️ Building scalable web apps using **Laravel, PHP, RESTful APIs, and modern frontend technologies.  <br>👥 Working closely with clients to understand requirements and provide **bug fixing, support, and ERP training.<br>🌱Always learning and exploring new tools, frameworks, and development practices.</p>
 
 ###
 
