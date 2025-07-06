@@ -24,17 +24,17 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" width="25" alt="html5 logo "  />
-  
+   <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" width="25" alt="css3 logo"  />
-
+ <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="25" width="25" alt="tailwindcss logo"  />
-  
+   <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" width="25" alt="bootstrap logo"  />
-<img width="18"/>
+  <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" width="25" alt="javascript logo"  />
- 
+  <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" width="25" alt="react logo"  />
-
+ <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" width="25" alt="vuejs logo"  />
 </div>
 
@@ -46,15 +46,15 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" width="25" alt="php logo"  />
-  
+   <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="25" width="25" alt="laravel logo"  />
-
+ <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="25" width="25" alt="symfony logo"  />
- 
+  <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" width="25" alt="nodejs logo"  />
- 
+  <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" width="25" alt="python logo"  />
- 
+  <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" width="25" alt="django logo"  />
 </div>
 
@@ -66,9 +66,9 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" width="25" alt="mysql logo"  />
- 
+  <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" width="25" alt="mongodb logo"  />
-
+ <img width="18"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" width="25" alt="postgresql logo"  />
 </div>
 
