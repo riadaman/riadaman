@@ -136,16 +136,6 @@
 
 ###
 
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=riadaman&show_icons=true&theme=default&hide_border=true" height="150" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riadaman&layout=compact&theme=default&hide_border=true" height="150" alt="top languages" />
-</div>
-
-###
 
 <h2 align="left">🌄 Outside of Coding</h2>
 
